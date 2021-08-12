@@ -1,6 +1,9 @@
 # fitness
 
-A new Flutter application.
+A new Flutter Exercise application.
+
+![image](https://user-images.githubusercontent.com/59603716/129184057-859f8576-6757-4b76-a9ab-3d73371f6405.png)
+
 
 ## Getting Started
 
